@@ -68,6 +68,7 @@ def submit_guess(game_state):
         ROOT.bell()
         GUI.game_result.config(text=f'All digits must be unique')
         return
+    GUI.game_result.config(text='')  #reset all error statements
     game_state.score += 1
     GUI.update_score(game_state.score)
     game_state.previous_guesses.append(guessed_number)
