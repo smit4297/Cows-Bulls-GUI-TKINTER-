@@ -3,9 +3,7 @@ This this a pure python based game called cows &amp; bulls with Graphical User I
 
 **prerequisites:**
 
-pip install tkinter
-
-pip install PIL
+pip install tk
 
 pip install pillow
 
@@ -16,11 +14,15 @@ Enjoy The Game ;)
 
 **screenshots**
 
-![](screenshots/home.PNG)
+![](screenshots/Enter_digit_error.PNG)
 
-![](screenshots/display_cows_bulls.PNG)
+![](screenshots/secret_number_generated.PNG)
 
-![](screenshots/win.PNG)
+![](screenshots/number_length_error.PNG)
+
+![](screenshots/bulls_and_cows.PNG)
+
+![](screenshots/Win.PNG)
 
 
 
