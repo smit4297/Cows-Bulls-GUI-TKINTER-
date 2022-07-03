@@ -20,8 +20,6 @@ Enjoy The Game ;)
 
 ![](screenshots/number_length_error.PNG)
 
-![](screenshots/bulls_and_cows.PNG)
-
 ![](screenshots/Win.PNG)
 
 
