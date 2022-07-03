@@ -3,9 +3,9 @@ This this a pure python based game called cows &amp; bulls with Graphical User I
 
 prerequisites:
 
-pip install tkinter
-pip install PIL
-pip install pillow
+pip install tkinter\n
+pip install PIL\n
+pip install pillow\n
 
 RUN MainGame.py 
 Enjoy The Game ;)
